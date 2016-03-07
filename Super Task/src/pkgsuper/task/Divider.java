@@ -1,4 +1,4 @@
-//lol wut
+//lol que
 package pkgsuper.task;
 
 import java.util.Scanner;
